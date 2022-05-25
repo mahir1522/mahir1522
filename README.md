@@ -19,7 +19,7 @@ Hi 👋 My name is Mahir
 Full-stack web developer and python script maker
 ------------------------------------------------
 
-I've been learning coding seen last 5-6 year. I started coding with python, later I complete with flask and Django. From the last one year I working on web development, after that after I take command of all major language like HTML, CSS , React.js , node.js etc.
+I've been learning coding seen last 2-3 years. I started coding with python, later I complete with flask and Django. From the last one year I working on web development, after that after I take command of all major language like HTML, CSS , React.js , node.js etc.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mahirp1522@gmail.com](mailto:mahirp1522@gmail.com)
