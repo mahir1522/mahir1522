@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 Hi 👋 My name is Mahir
 ======================
 
-Full-stack web developer and python script maker
+An Integrated software Developer and QA Engineer with Front-end Expertise
 ------------------------------------------------
 
-I've been learning coding seen last 2-3 years. I started coding with python, later I complete with flask and Django. From the last one year I working on web development, after that after I take command of all major language like HTML, CSS , React.js , node.js etc.
 
-* 🌍  I'm based in India
+I'm an experienced coder focusing on front-end development and software engineering. I began my coding journey with Python and later expanded into web development, mastering HTML, CSS, React.js, Node.js, and the .NET framework with a strong emphasis on the MVC (Model-View-Controller) architecture. Additionally, I'm proficient in C#, where I've developed a wide range of software applications. I have a keen eye for front-end design and excel at creating user-friendly interfaces. I'm a Python script maker in the software realm, solving complex problems and automating tasks. I'm passionate about staying current with industry trends and delivering high-quality results.
+
+In addition to my expertise in web development and software engineering, I also have hands-on experience with various databases. I've worked with MongoDB, MS SQL, and MySQL, leveraging these database systems to store and manage data efficiently. This combination of front-end development, software engineering, and database expertise allows me to provide end to end soludtions for a wide range of projects.
+
+
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [mahirp1522@gmail.com](mailto:mahirp1522@gmail.com)
-* 🧠  I'm learning React.js
-* ⚡  I am also know the java and c++, but I don't use this two language much in my routine.
+* 🧠  I'm learning .NET Framework
+* ⚡  I worked on numerous projects with various programming languages such as C#, Python, JavaScript.
 
 ### Skills
 
@@ -37,9 +41,15 @@ I've been learning coding seen last 2-3 years. I started coding with python, lat
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.c-sharpcorner.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="csharp" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="36" height="36"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/></a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36"/></a> 
+
+	
+
 </p>
 
 
@@ -55,6 +65,10 @@ I've been learning coding seen last 2-3 years. I started coding with python, lat
 
 <a href="http://www.github.com/mahir1522"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahir1522&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mahir1522"><img src="https://activity-graph.herokuapp.com/graph?username=mahir1522&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--
+<a href="http://www.github.com/mahir1522"><img src="https://activity-graph.herokuapp.com/graph?username=mahir1522&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>       -->
 
 <a href="https://github.com/mahir1522" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir1522&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
