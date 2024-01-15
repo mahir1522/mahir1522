@@ -27,8 +27,8 @@ In addition to my expertise in web development and software engineering, I also 
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [mahirp1522@gmail.com](mailto:mahirp1522@gmail.com)
-* 🧠  I'm learning .NET Framework
-* ⚡  I worked on numerous projects with various programming languages such as C#, Python, JavaScript.
+* 🧠  I'm learning Rest API
+* ⚡  I worked on numerous projects with various programming languages such as C#, Python, JavaScript, .NET MVC.
 
 ### Skills
 
